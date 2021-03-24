@@ -3,7 +3,7 @@
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-I am someone who loves to use a Raspberry Pi (What I write most of my code on) and although find it challenging, love to learn Computer Science and Programming!
+I am someone who loves to use a Raspberry Pi  (What I write most of my code on) or just a linux machine such as an x86 Linux Mint computer and although find it challenging I love to learn Computer Science and Programming!
 
 - 🌱 I’m currently learning Python3, C, Bash, HTML, CSS and PHP 
 - 🤔 I’m looking for help with adding more examples for others in my Python-Code and Website-Code repos
