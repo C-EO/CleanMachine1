@@ -3,7 +3,7 @@
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-I am someone who loves to use a Raspberry Pi (What I write most of my code on) or just a ThinkPad!
+I only use GNU/Linux and use Raspberry Pis' and a ThinkPad!
 
 I love to program and learning all about computers!
 
