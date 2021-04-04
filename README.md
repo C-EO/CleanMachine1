@@ -3,7 +3,7 @@
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-I only use GNU/Linux and use Raspberry Pis' and a ThinkPad!
+I only use GNU/Linux as my OS and for my computers I use Raspberry Pi and ThinkPad.
 
 I love to program and learning all about computers!
 
