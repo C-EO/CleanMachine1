@@ -31,11 +31,13 @@ I also fix and write documentation as clean documentation on using, installing a
 - 📫 How to reach me: /dev/null or create an issue at [Issue Page of this repo](https://github.com/CleanMachine1/CleanMachine1/issues) and I will reply as soon as I see it
 - ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
 - 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+_Use DuckDuckGo_
 
-*Use DuckDuckGo*
+_Use Linux_
 
 Some of my personal dotfiles can be found at [This Repo](https://github.com/CleanMachine1/CleanMachine1/)
