@@ -1,0 +1,14 @@
+[user]
+	name = CleanMachine1
+	email = 78213164+CleanMachine1@users.noreply.github.com
+# Excluding my signing key
+[commit]
+	gpgsign = true
+[credential]
+	helper = #Missing my cred helper 
+[alias]
+	s = status
+	aa = add .
+	del = branch -D
+	p = push
+	commiters = shortlog -sne --all
