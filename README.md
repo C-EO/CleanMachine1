@@ -37,3 +37,5 @@ I also fix and write documentation as clean documentation on using, installing a
 
 
 *Use DuckDuckGo*
+
+Some of my personal dotfiles can be found at [This Repo](https://github.com/CleanMachine1/CleanMachine1/)
