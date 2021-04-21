@@ -36,6 +36,8 @@ I also fix and write documentation as clean documentation on using, installing a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
+
 _Use DuckDuckGo_
 
 _Use Linux_
