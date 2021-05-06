@@ -34,7 +34,7 @@ I also fix and write documentation as clean documentation on using, installing a
 
 Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
-<b> My GPG signing keys are 17BEE5CDC211691E,  F7E9DCDEB6C60B30 and  4AEE18F83AFDEB23 </b>
+**My GPG signing keys are 17BEE5CDC211691E,  F7E9DCDEB6C60B30 and  4AEE18F83AFDEB23**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
