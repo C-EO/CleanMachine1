@@ -20,12 +20,13 @@ _______________________
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-I only use GNU/Linux as my OS and switch between Arch Linux and Debian based distros
-
+I only use GNU/Linux as my OS and switch between Arch Linux and Debian based distros.
 
 I love to program and learning all about computers!
 
 I also fix and write documentation as clean documentation on using, installing and removing a program is a must.
+
+I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
 - 🌱 I’m currently learning Python 3, C, Bash, HTML, CSS and a small amount of PHP but not a lot
 - 🤔 I’m looking for help with adding more examples for others in my Python-Code and Website-Code Repositories
