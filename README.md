@@ -25,7 +25,6 @@ Tasks - Documentation Writer and fixer
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
 - 🌱 I’m currently learning Python 3, C, Bash, HTML, CSS and a small amount of PHP but not a lot
-- 🤔 I’m looking for help with adding more examples for others in my Python-Code and Website-Code Repositories
 - 📫 How to reach me: /dev/null or create an issue at [Issue Page of this repo](https://github.com/CleanMachine1/CleanMachine1/issues) and I will reply as soon as I see it
 - ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
 - 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
