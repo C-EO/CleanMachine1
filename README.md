@@ -1,4 +1,3 @@
-
 ```
 _______________________
 < Welcome to my Github! >
@@ -20,11 +19,8 @@ _______________________
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-I only use GNU/Linux as my OS and switch between Arch Linux and Debian based distros.
-
-I love to program and learning all about computers!
-
-I also fix and write documentation as clean documentation on using, installing and removing a program is a must.
+Linux User - Arch and Debian
+Tasks - Documentation Writer and fixer
 
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
@@ -36,14 +32,13 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
 Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
-**My GPG signing keys are 17BEE5CDC211691E,  F7E9DCDEB6C60B30 and  4AEE18F83AFDEB23**
+__My GPG signing keys are **17BEE5CDC211691E**, **F7E9DCDEB6C60B30** and  **4AEE18F83AFDEB23**__
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+\
 
-_Use DuckDuckGo_
-
-_Use Linux_
+*Use DuckDuckGo*\
+*Use Linux*
 
 Some of my personal .dotfiles can be found at [This Repo](https://github.com/CleanMachine1/CleanMachine1/)
