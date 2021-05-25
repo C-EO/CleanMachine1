@@ -31,7 +31,7 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
 Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
-__My GPG signing keys are **17BEE5CDC211691E**, **F7E9DCDEB6C60B30** and  **4AEE18F83AFDEB23**__
+[My GPG Public keys](https://github.com/CleanMachine1.gpg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
