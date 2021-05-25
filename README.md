@@ -20,6 +20,7 @@ Thanks for viewing my GitHub, if you would contribute to my projects it would me
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
 Linux User - Arch and Debian
+
 Tasks - Documentation Writer and fixer
 
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
