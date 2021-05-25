@@ -19,9 +19,9 @@ _______________________
 Thanks for viewing my GitHub, if you would contribute to my projects it would mean a lot!
 My code may not be the cleanest (although my name implies), but if it works, it works.
 
-Linux User - Arch and Debian
+Linux User - __Arch__ and __Debian__
 
-Tasks - Documentation Writer and fixer
+Tasks - __Documentation Writer__ and __fixer__
 
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
