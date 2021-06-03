@@ -30,8 +30,6 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 - ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
 - 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
 
-Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
-
 [My GPG Public keys](https://github.com/CleanMachine1.gpg)
 
 `curl https://github.com/CleanMachine1.gpg | gpg --import`
