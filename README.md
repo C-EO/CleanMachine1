@@ -40,4 +40,3 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 *Use DuckDuckGo*\
 *Use Linux*
 
-Some of my personal .dotfiles can be found at [This Repo](https://github.com/CleanMachine1/CleanMachine1/)
