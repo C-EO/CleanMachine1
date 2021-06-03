@@ -34,6 +34,8 @@ Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/
 
 [My GPG Public keys](https://github.com/CleanMachine1.gpg)
 
+`curl https://github.com/CleanMachine1.gpg | gpg --import`
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
