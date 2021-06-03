@@ -21,7 +21,7 @@ My code may not be the cleanest (although my name implies), but if it works, it 
 
 Linux User - __Arch__ and __Debian__
 
-Tasks - __Documentation Writer__ and __fixer__
+Tasks - __Documentation Writer__
 
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
