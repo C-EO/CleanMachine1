@@ -21,7 +21,7 @@ My code may not be the cleanest (although my name implies), but if it works, it 
 
 Linux User - __Arch__ and __Debian__
 
-Tasks - __Documentation Writer__ and __fixer__
+Tasks - __Documentation Writer__
 
 I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 
@@ -30,9 +30,9 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 - ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
 - 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
 
-Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
-
 [My GPG Public keys](https://github.com/CleanMachine1.gpg)
+
+`curl https://github.com/CleanMachine1.gpg | gpg --import`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,4 +40,3 @@ Not many people GPG sign commits! Learn to do it [here](https://docs.github.com/
 *Use DuckDuckGo*\
 *Use Linux*
 
-Some of my personal .dotfiles can be found at [This Repo](https://github.com/CleanMachine1/CleanMachine1/)
