@@ -35,8 +35,10 @@ I am an active maintainer at [tldr pages](https://github.com/tldr-pages/tldr).
 `curl https://github.com/CleanMachine1.gpg | gpg --import`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 *Use DuckDuckGo*\
 *Use Linux*
-
