@@ -30,7 +30,7 @@ _______________________
 I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
 - 🌱 I’m currently learning Python, C, and Go
-- 📫 How to reach me: [Gitter](gitter.im/CleanMachine1)
+- 📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
 - ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
 - 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
 
