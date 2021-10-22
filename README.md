@@ -25,7 +25,7 @@ _______________________
 ![Badge](https://img.shields.io/badge/ZSH-0000FF?style=for-the-badge&logo=ZSH&logoColor=white)
 ![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
+</br>
 
 I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
