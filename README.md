@@ -13,6 +13,7 @@ _______________________
     \___)=(___/
 
 ```
+<div align="center">
 
 ![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,13 +27,15 @@ _______________________
 
 
 
-
 I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
-- 🌱 I’m currently learning Python, C, and Go
-- 📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
-- ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
-- 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
+ 🌱 I’m currently learning Python, C, and Go
+
+ 📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
+
+ ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
+ 
+ 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
 
 [My GPG Public keys](https://github.com/CleanMachine1.gpg)
 
@@ -40,9 +43,11 @@ I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 *Use DuckDuckGo*\
 *Use Linux*
