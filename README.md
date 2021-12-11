@@ -29,13 +29,13 @@ _______________________
 
 I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
- 🌱 I’m currently learning Python, C, and Go
+ 🌱 I’m currently learning Go.
 
  📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
 
- ⚡ Fun Fact: The world will end on January 19th 2038 according to Unix Epoch
+ ⚡ Fun Fact: The world will end for some computers on [January 19th 2038](https://en.wikipedia.org/wiki/Year_2038_problem)
  
- 💬 Favorite Quote: A computer is like air conditioning. It becomes useless when you open windows - Linus Torvalds
+ 💬 Favorite Quote: "A computer is like air conditioning. It becomes useless when you open windows" - Linus Torvalds
 
 [My GPG Public keys](https://github.com/CleanMachine1.gpg)
 
@@ -48,6 +48,9 @@ I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+<font size = 1>
+*Use DuckDuckGo*
 
-*Use DuckDuckGo*\
+
 *Use Linux*
+</font>
