@@ -29,6 +29,8 @@ _______________________
 
 I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 
+I'm also an advocate of Linux and DuckDuckGo.
+
  🌱 I’m currently learning Go.
 
  📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
@@ -48,9 +50,3 @@ I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<font size = 1>
-*Use DuckDuckGo*
-
-
-*Use Linux*
-</font>
