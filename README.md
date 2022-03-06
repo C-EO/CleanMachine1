@@ -27,7 +27,7 @@ _______________________
 
 </br>
 
-I'm an active maintainer for [tldr pages](https://github.com/tldr-pages/tldr).
+I'm a maintainer for [tldr pages](https://github.com/tldr-pages/tldr) and [free-programming-books](https://github.com/EbookFoundation/free-programming-books).
 
  🌱 I’m currently learning Go.
 
