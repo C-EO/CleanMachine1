@@ -37,10 +37,4 @@ I'm a maintainer for [tldr pages](https://github.com/tldr-pages/tldr) and [free-
 
 [`curl https://github.com/CleanMachine1.gpg | gpg --import`](https://github.com/CleanMachine1.gpg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CleanMachine1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanMachine1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
