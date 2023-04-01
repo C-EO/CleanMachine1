@@ -35,7 +35,7 @@ I'm a maintainer for [tldr pages](https://github.com/tldr-pages/tldr) and [free-
 
  🌱 I’m currently learning Go.
 
- 📫 How to reach me: [Gitter](https://gitter.im/CleanMachine1)
+ 📫 How to reach me: [CleanMachine1.general@gmail.com](mailto:CleanMachine1.general@gmail.com)
  
  💬 Favorite Quote: "A computer is like air conditioning. It becomes useless when you open windows" - Linus Torvalds
 
