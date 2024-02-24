@@ -37,8 +37,6 @@ I'm a maintainer for [tldr pages](https://github.com/tldr-pages/tldr) and [free-
 
  📫 How to reach me: [CleanMachine1.general@gmail.com](mailto:CleanMachine1.general@gmail.com)
  
- 💬 Favorite Quote: "A computer is like air conditioning. It becomes useless when you open windows" - Linus Torvalds
-
 [`curl https://github.com/CleanMachine1.gpg | gpg --import`](https://github.com/CleanMachine1.gpg)
 
 </div>
